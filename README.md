@@ -47,10 +47,12 @@ The project uses real-time market data fetched through Yahoo Finance and transfo
 # Dashboard Preview
 
 ## Market Overview
+<img width="1117" height="626" alt="Market_Overview" src="https://github.com/user-attachments/assets/66be2ae4-fc12-4aa7-aaf0-d46ca10a66f7" />
 
 
 ## Technical Analysis
 
+<img width="1114" height="626" alt="Technical_Analysis" src="https://github.com/user-attachments/assets/8689578d-cf09-4214-bae0-309a7064f9cc" />
 
 ---
 
@@ -63,7 +65,3 @@ The project uses real-time market data fetched through Yahoo Finance and transfo
 - Risk-adjusted performance tracking through Sharpe Ratio
 - Interactive market exploration using filters and slicers
 ---
-
-# Author
-
-[Your Name]
